@@ -1,0 +1,19 @@
+{
+  "name": "devices.css",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Fork of devices.css",
+  "main": "marvel-phones.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/will-ob/devices.css.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/will-ob/devices.css/issues"
+  }
+}
