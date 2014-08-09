@@ -1,6 +1,10 @@
 
-Will - notes
+Notes on using this fork
 ------------
+
+Install:
+
+    npm install --save git+ssh://git@github.com:will-ob/devices.css.git
 
 Use as you would the original, except:
 
