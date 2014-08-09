@@ -1,3 +1,15 @@
+
+Will - notes
+------------
+
+Use as you would the original, except:
+
+ - Use surrounding `.marvel` class
+ - `%s/#/./g` for device names
+
+
+
+
 See the demo [here](http://marvelapp.github.io/devices.css/)
 
 # Usage
