@@ -110,8 +110,8 @@
   display: block;
   -webkit-border-radius: 1px;
   border-radius: 1px;
-  -webkit-box-shadow: 0 0 0 3px .111;
-  box-shadow: 0 0 0 3px .111; }
+  -webkit-box-shadow: 0 0 0 3px #111;
+  box-shadow: 0 0 0 3px #111; }
 .marvel .iphone5s .device, .marvel .iphone5c .device {
   padding: 105px 22px;
   margin: 0 auto;
